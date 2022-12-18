@@ -1,0 +1,12 @@
+let a=20;
+let b=40;
+let s="sonali";
+let d="om";
+let pp=true;
+let cc=false;
+console.log(typeof(a));
+console.log(typeof(b));
+console.log(typeof(s));
+console.log(typeof(d));
+console.log(typeof(pp));
+console.log(typeof(cc));

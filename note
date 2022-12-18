@@ -1,0 +1,110 @@
+== value
+=== type,value
+oops concept important in js
+
+java sript is a cross-platform object -orinted scripting lan .used to mke webpages interactive.
+eg. animation clickable button ,popup menus ..ther animation
+version of js such as Node ........ develop by brenden eich in 1995 devlop by Brenden 
+
+
+** Scope of js **
+Global Scope -Global s contains all of the things defined outside of all code blocks.a code 
+blocks simply consist of group of the stmnt inside curly 
+{} if stmt ,loops, function are exmlpe 
+
+***Local Scope - inside code block local ***
+
+// let  a=2;  //global va
+// let b=4;
+// function add(){
+//     c=a+b;   //c is local 
+//     console.log(c);
+// }
+
+*** varables ***
+var---- global declaration 
+let const ---- constant value
+let local declaration
+
+variables---declare and update info 
+ex.  let a=2; //declare
+a=5; //update 
+
+const--cant update and redeclare.Brenden
+ex. const 1=2;
+a=4; //error cnt update and redeclare
+
+1.snack case --- multiple words are combine together.
+ex a_b_c , student no - student_no
+
+2.camel case-- toString , StudentName //fisrt letter use capital to add ananther word
+
+Java Sript can change HTML Attributes Value 
+ 
+<button onclick = "document.getElementById('myImage').src='pic_.gif'"> Turn on the light </button>
+<img id ="myImage" src="pic." 
+
+*FUNCTION*
+function multi(a,b){return a*b;}//parameters ,either letter,digit,underscore,dollar sign(same as rules of variable)
+the parantheses may includes parameter names separtaed by commas
+code exicted bye the iner curly brackets{}
+
+* function declaration *
+function hello(){
+    console.log("hello ther");
+}
+ 
+* calling function *
+function add(){
+
+}
+add(); //calling function
+
+** function with paramerters **
+function add(name){
+    console.log("hello" +name + ":)");
+}
+variable name can be diffrent
+let name=promt("enter the name");
+
+** function Return **
+the return stmt can be used to return the value to function call
+the return stmt denoted that the function has ended any code after return is not executed
+if nothing is return the function return an undefined value 
+
+function add(n1,n2){
+    return result;
+}
+let x=add(a,b);
+regular expesion test js validation chk number is valid or not //email is valid or not mobile email password 
+
+object array method 
+
+fuuction add(f)
+
+
+object 
+nested object 
+array of object
+array methods  map arrow tostring sort join math.round
+typeof function,object,array always type is  (object) not string and any things 
+
+
+let c=['tcs','wipro','tcs''baap','accenture','capegimi','google','snap','honda','apple'];
+
+for(c=1;c<10;c++)
+{
+    console.log(c);
+}
+
+math object
+6 digit otp genrate using and change otp
+
+new = object
+
+query...
+array sort using function
+
+
+
+ 
